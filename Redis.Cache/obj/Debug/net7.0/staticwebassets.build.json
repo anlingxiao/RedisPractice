@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YPgEdT0ta6bFdWSIErtnxZD9N/6uFUBNgdYY0S9TGig=",
+  "Source": "Redis.Cache",
+  "BasePath": "_content/Redis.Cache",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
